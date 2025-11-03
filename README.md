@@ -173,15 +173,15 @@ En la solicitud **Comparación de precios**:
 const endpoints = [
   {
     label: "Super A",
-    url: "https://937b5598-8007-477d-aa9a-eb93e2d20af1.mock.pstmn.io/superA"
+    url: "Insertar aquí la url del endpoint del super A"
   },
   {
     label: "Super B",
-    url: "https://937b5598-8007-477d-aa9a-eb93e2d20af1.mock.pstmn.io/superB"
+    url: "Insertar aquí la url del endpoint del super B"
   },
   {
     label: "Super C",
-    url: "https://937b5598-8007-477d-aa9a-eb93e2d20af1.mock.pstmn.io/superC"
+    url: "Insertar aquí la url del endpoint del super C"
   }
 ];
 
